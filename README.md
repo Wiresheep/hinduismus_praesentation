@@ -13,4 +13,4 @@ Die Präsentation ist für etwa 15 Minuten einschließlich einer kurzen Diskussi
 
 Die Vorlage verwendet Petrol, Gold und Creme. Öffne die POTX-Datei in PowerPoint, ersetze die Beispieltexte und dupliziere passende Folien. Falls dein Programm POTX nicht unterstützt, verwende die PPTX-Version.
 
-Das bereitgestellte Referenzbild zeigt eine buddhistische Stupa und wurde nur als Farbreferenz verwendet; es ist nicht eingebettet. Die Dateien wurden strukturell geprüft, aber nicht visuell in PowerPoint getestet. Die Quellenlinks wurden bei der Erstellung nicht live überprüft.
+Das bereitgestellte Referenzbild zeigt eine buddhistische Stupa und wurde nur als Farbreferenz verwendet; es ist nicht eingebettet. Die überarbeitete Präsentation enthält eine eigens mit OpenAI erstellte KI-Illustration eines hinduistischen Tempels sowie ein Detail mit Diya-Lampen. Beide sind als Illustrationen gekennzeichnet, nicht als dokumentarische Fotos. Schaubilder und Vergleichskarten sind direkt in PowerPoint editierbar. Die Dateien wurden strukturell geprüft, aber nicht visuell in PowerPoint getestet. Die Quellenlinks wurden bei der Erstellung nicht live überprüft.
