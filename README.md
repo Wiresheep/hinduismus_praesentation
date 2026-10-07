@@ -6,10 +6,10 @@ Die Präsentation ist für etwa 15 Minuten einschließlich einer kurzen Diskussi
 
 Öffne die gewünschte Datei auf GitHub und wähle **Download raw file** (Download-Symbol).
 
-- [Präsentation](Hinduismus_15_Minuten.pptx)
+- [Präsentation](Hinduismus/Hinduismus_15_Minuten.pptx)
 - [PowerPoint-Vorlage](Vorlage_Petrol_Gold.potx)
 - [Vorlage als normale Präsentation](Vorlage_Petrol_Gold.pptx)
-- [Sprechernotizen](Sprechernotizen.txt)
+- [Sprechernotizen](Hinduismus/Sprechernotizen.txt)
 
 Die Vorlage verwendet Petrol, Gold und Creme. Öffne die POTX-Datei in PowerPoint, ersetze die Beispieltexte und dupliziere passende Folien. Falls dein Programm POTX nicht unterstützt, verwende die PPTX-Version.
 
@@ -20,8 +20,8 @@ Das bereitgestellte Referenzbild zeigt eine buddhistische Stupa und wurde nur al
 
 Die zusätzliche Präsentation umfasst 14 Folien einschließlich Quellenfolie und ist für etwa 15 Minuten inklusive kurzer Diskussion geplant. Die Notizen enthalten Zeitvorschläge.
 
-- [Buddhismus-Präsentation](Buddhismus_15_Minuten.pptx)
-- [Buddhismus-Sprechernotizen](Buddhismus_Sprechernotizen.txt)
+- [Buddhismus-Präsentation](Buddhismus/Buddhismus_15_Minuten.pptx)
+- [Buddhismus-Sprechernotizen](Buddhismus/Buddhismus_Sprechernotizen.txt)
 
 Themen: historischer Buddha und religiöse Überlieferung, vier edle Wahrheiten, achtfacher Pfad, Unbeständigkeit und Nicht-Selbst, Karma und Wiedergeburt, Nirvana, Alltagspraxis, drei Juwelen, Theravada/Mahayana/Vajrayana, Gegenwartsfragen und Vergleich mit dem Hinduismus.
 
